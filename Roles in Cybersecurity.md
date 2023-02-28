@@ -3,4 +3,4 @@
 # Forensics
 # Incident Response
 # Security Architecture
-# Vulnerbalitiy management
+# Vulnerbalitiy management.
